@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/369a6743-8a3f-4736-984c-5cda75c84a4d
 
 # 🚀 FUTURE_DS_01: Social Media Trend Analysis  
 
-## 🏆 Internship Program: Future Interns - Data Science & Analytics  
+## 🏆 Internship Program:  - Data Analytics  
 This project focuses on analyzing **trending topics, sentiment shifts, and user engagement** across **Facebook, Twitter, and Instagram** using **Python and Power BI**.
 
 ---
